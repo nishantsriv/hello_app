@@ -1,0 +1,5 @@
+*.pyc
+.idea/
+dev.cfg
+migrations/
+*.log
